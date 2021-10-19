@@ -1,0 +1,1 @@
+<a href="/"><button>Reload icons</button></a>
